@@ -6,7 +6,7 @@ import moment from 'moment-timezone'
 
 /**Owner number**/
 global.owner = [
-  ['6282195322106', '️Owner1 Hinata-Md', true],
+  ['6288804947282', '️Owner1 Hinata-Md', true],
   ['6282195322106', '️Owner2 Hinata-Md', true],
   ['6282195322106', '️Owner3 Hinata-Md', true],
   ['6282195322106', '️Owner4 Hinata-Md', true],
